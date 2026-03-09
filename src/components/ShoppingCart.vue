@@ -80,8 +80,9 @@ function updateQuantity(val) {
     }
   })
 }
-
+//parse int will help to increase the number (for ex at 20 there was a bug)
 // Automatically save to localStorage whenever any part of shoppingCartItems changes
+
 watch(
   shoppingCartItems,
   () => {
