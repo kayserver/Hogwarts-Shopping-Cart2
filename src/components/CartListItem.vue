@@ -135,7 +135,6 @@ function updateQuantity(id, newQuantity) {
   font-size: 1.2em;
   margin-left: 20px;
 }
-
 .quantity-change-button:hover,
 .quantity-change-button:focus,
 .quantity-input:focus,
