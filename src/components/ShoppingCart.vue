@@ -30,7 +30,7 @@ let shoppingCartItems = ref([
     price: 1500,
     isInStock: true,
     quantity: 3,
-    image: 'src/assets/img/DragonLiver.png'
+    image: 'src/assets/DragonLiver.png'
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ let shoppingCartItems = ref([
     price: 600,
     isInStock: true,
     quantity: 2,
-    image: ' src/assets/img/GoldenSnitch.png'
+    image: ' src/assets/GoldenSnitch.png'
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ let shoppingCartItems = ref([
     price: 1200,
     isInStock: false,
     quantity: 1,
-    image: 'src/assets/img/UnicornTailHair.png'
+    image: 'src/assets/UnicornTailHair.png'
   },
   {
     id: 4,
@@ -54,7 +54,7 @@ let shoppingCartItems = ref([
     price: 2000,
     isInStock: true,
     quantity: 1,
-    image: 'src/assets/img/Wand.jpg'
+    image: 'src/assets/Wand.jpg'
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ let shoppingCartItems = ref([
     price: 5000,
     isInStock: true,
     quantity: 1,
-    image: 'src/assets/img/Nimbus2000.jpg'
+    image: 'src/assets/Nimbus2000.jpg'
   }
 ])
 
